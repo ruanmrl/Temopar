@@ -1,0 +1,11 @@
+Criado por:
+	Ruan Moral e Gabriel Brandt, academicos do curso de Engenharia de Computação da UFSM.
+
+
+
+Descrição:
+	Ultilizacao de termopar para leitura de temperatura, mostra do mesmos em um display com teclado e armazenamento 
+da ultimas 250 amostragens e armazenamento na memoria EEPROM.
+	Para a mostra dos dados no display, é possivel ser escolher qual dado sera mostrado, temperatura media(250 amostragens anteriores) ou temperatura lida atualmente.
+
+
